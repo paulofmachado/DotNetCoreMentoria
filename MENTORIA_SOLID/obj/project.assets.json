@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID.csproj",
+      "projectUniqueName": "C:\\Projects\\GitLab\\Mentoria\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID.csproj",
       "projectName": "MENTORIA_SOLID",
-      "projectPath": "C:\\Temp\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID.csproj",
+      "projectPath": "C:\\Projects\\GitLab\\Mentoria\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID.csproj",
       "packagesPath": "C:\\Users\\Paulo Machado\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\MENTORIA_SOLID\\MENTORIA_SOLID\\MENTORIA_SOLID\\obj\\",
+      "outputPath": "C:\\Projects\\GitLab\\Mentoria\\MENTORIA_SOLID\\MENTORIA_SOLID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MENTORIA_SOLID", "MENTORIA_SOLID\MENTORIA_SOLID.csproj", "{A967ABE4-BAED-431D-A384-BAA6C25750DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A967ABE4-BAED-431D-A384-BAA6C25750DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A967ABE4-BAED-431D-A384-BAA6C25750DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A967ABE4-BAED-431D-A384-BAA6C25750DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A967ABE4-BAED-431D-A384-BAA6C25750DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA6E9AE-EE90-489A-81BC-94AEE595A1AD}
+	EndGlobalSection
+EndGlobal
